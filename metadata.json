@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Comercial Oliveira",
+  "description": "Calculadora de crediário completa para simulações de financiamento da Comercial Oliveira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

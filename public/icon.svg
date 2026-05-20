@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Rounded white card background with subtle border -->
+  <rect x="16" y="16" width="480" height="480" rx="108" fill="#ffffff" stroke="#f1f5f9" stroke-width="8"/>
+  
+  <!-- Subtle emerald background glow -->
+  <circle cx="256" cy="256" r="160" fill="#ecfdf5" />
+
+  <!-- Elegant abstract financial lines & upmost node (growth & calculation) -->
+  <g stroke="#047857" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Grid/calculation outline -->
+    <rect x="160" y="160" width="192" height="192" rx="28" stroke="#1e293b" stroke-width="20" />
+    
+    <!-- Calculator key accents -->
+    <line x1="200" y1="210" x2="230" y2="210" stroke="#047857" />
+    <line x1="200" y1="256" x2="230" y2="256" stroke="#047857" />
+    <line x1="200" y1="302" x2="230" y2="302" stroke="#047857" />
+    
+    <!-- Plus symbol in emerald -->
+    <path d="M280 233h32M296 217v32" stroke="#047857" stroke-width="16" />
+    <!-- Equal sign in dark slate -->
+    <path d="M280 292h32M280 304h32" stroke="#1e293b" stroke-width="16" />
+  </g>
+
+  <!-- Accent dot -->
+  <circle cx="360" cy="152" r="16" fill="#10b981" />
+</svg>
